@@ -1,6 +1,8 @@
 onlydust/wait-on-action
 ======================
 
+TEST 2
+
 A GitHub Actions wrapper for the [wait-on](https://npmjs.com/package/wait-on)
 
 
